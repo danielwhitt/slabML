@@ -1,3 +1,5 @@
+% See README.md and LICENSE
+
 clear all;
 close all;
 
